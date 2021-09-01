@@ -1,0 +1,52 @@
+/*Header*/
+
+.MuiAppBar-colorPrimary {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 64px 90px 0 90px;
+  width: 100%;
+}
+.header_title {
+  color: #ffda1a;
+}
+.header_title,
+.header_list {
+  text-transform: uppercase;
+}
+.header_list {
+  display: flex;
+}
+.header_list h6:first-child {
+  margin-right: 40px;
+}
+
+.stock_container {
+  margin-top: 50px;
+}
+
+/* Products*/
+.product_card {
+  margin: 20px;
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+}
+.product_card_content {
+  display: flex;
+  flex-direction: column;
+}
+
+.product_title {
+  text-align: left;
+}
+
+.product_button {
+  margin-right: 5px;
+}
+.product_list_text {
+  text-align: right;
+}

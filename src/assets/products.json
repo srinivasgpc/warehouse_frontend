@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "Dining Chair",
+      "image_path": "https://www.ikea.com/in/en/images/products/stefan-chair-brown-black__0727320_pe735593_s5.jpg?f=s",
+      "contain_articles": [
+        {
+          "art_id": "1",
+          "amount_of": 4
+        },
+        {
+          "art_id": "2",
+          "amount_of": 8
+        },
+        {
+          "art_id": "3",
+          "amount_of": 1
+        }
+      ]
+    },
+    {
+      "name": "Dinning Table",
+      "image_path": "https://www.ikea.com/ae/en/images/products/taerendoe-table-black__0737362_pe741023_s5.jpg?f=s",
+      "contain_articles": [
+        {
+          "art_id": "1",
+          "amount_of": 4
+        },
+        {
+          "art_id": "2",
+          "amount_of": 8
+        },
+        {
+          "art_id": "4",
+          "amount_of": 1
+        }
+      ]
+    }
+  ]
+}
